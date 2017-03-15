@@ -1,0 +1,25 @@
+type project
+title
+    SpatialSearch
+owners
+    Pk
+authors 
+    Pk
+projectUrl
+    https://github.com/featuresnap/SpatialSearch.git/featuresnap/SpatialSearch
+iconUrl
+    https://raw.githubusercontent.com/featuresnap/SpatialSearch/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/featuresnap/SpatialSearch.git/featuresnap/SpatialSearch/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    An in memory tree for searching spatial data
+description
+    An in memory tree for searching spatial data
+
+

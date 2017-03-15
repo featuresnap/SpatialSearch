@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module SpatialSearch.Tests
 
-open FSharp.ProjectTemplate
+open SpatialSearch
 open NUnit.Framework
 
 [<Test>]

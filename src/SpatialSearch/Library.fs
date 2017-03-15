@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace SpatialSearch
 
 /// Documentation for my library
 ///
